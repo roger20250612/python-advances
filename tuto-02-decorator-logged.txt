@@ -1,0 +1,4 @@
+Duration to finish the function get_list_numbers is: 7.95(seconds).
+Duration to finish the function wrapper is: 7.96(seconds).
+Duration to finish the function get_list_numbers is: 8.10(seconds).
+Duration to finish the function get_list_numbers is: 8.00(seconds).

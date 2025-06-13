@@ -1,0 +1,7 @@
+[project]
+name = "python-advanced-tutorials"
+version = "0.1.0"
+description = "Python Advanced Tutorials"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
