@@ -1,4 +1,11 @@
 """Encapsulation - mô phỏng tính encapsulation (đóng gói) trong OOP
+
+Bundling data (attributes) and methods (functions) into a single unit (class).
+Hiding internal state and requiring all interaction through methods.
+Access modifiers in Python:
+    public (default): accessible from anywhere.
+    protected (_name): meant for internal use only (convention).
+    private (__name): name mangling to prevent direct access.
 """
 
 class Person:
